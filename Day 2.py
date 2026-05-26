@@ -92,7 +92,7 @@ c = a > b
 print(c)  
 
 # 5. Write a program to find an average of two numbers entered by the user 
-# Sahi kiya: int() lagaya taaki text number me badal jaye
+
 a = int(input("enter number 1: "))
 b = int(input("enter number 2: "))
 average = (a + b) / 2
