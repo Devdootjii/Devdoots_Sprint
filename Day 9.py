@@ -1,7 +1,4 @@
-"Snake-Water-Gun Game using Python"
-
-
-
+# "Snake-Water-Gun Game using Python"
 '''
 1 for snake
 -1 for water
